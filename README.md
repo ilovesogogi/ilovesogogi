@@ -4,7 +4,7 @@
   <a href ="https://velog.io/@ilovesogogi">Blog</a> • 
   <a href = "https://github.com/ilovesogogi">Github</a>
 </p>
-- 🌱 I’m currently learning  <img alt="ROS" src = "https://img.shields.io/badge/#22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
+- 🌱 I’m currently learning  <img alt="ROS" src = "https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
 <!--
 **ilovesogogi/ilovesogogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
