@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning  <img alt="ROS" src = "https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>  <img alt = "C++" src = "https://img.shields.io/badge/C++-00599c.sgv?&style=for-the-badges&logo=C++&logoColor=white"/>  <imag alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.srv?&style=for-the-badges&logo=Python&Color=white"/>
 
 - 💡 interests  : mobile robot, robotics, navigationn, path planning
-- Langage  🇰🇷 🇬🇧 ..  and 🇩🇪
+- Langage  :kr: :uk:  ..  and :de:
 - :email: gogijoa21@naver.com
 <!--
 **ilovesogogi/ilovesogogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
